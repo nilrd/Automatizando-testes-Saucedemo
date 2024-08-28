@@ -1,0 +1,13 @@
+package projeto.ui.metodos;
+
+public class Metodos {
+
+	public void clicar () {
+		
+	}
+	
+	public void validarTexto() {
+		
+	}
+	
+}

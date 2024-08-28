@@ -1,0 +1,18 @@
+package projeto.ui.metodos;
+
+import org.openqa.selenium.By;
+
+import projeto.ui.drivers.Drivers;
+
+public class Metodos extends Drivers {
+
+	public void clicar (By elemento) {
+		driver.findElement(elemento);
+		
+	}
+	
+	public void validarTexto() {
+		
+	}
+	
+}

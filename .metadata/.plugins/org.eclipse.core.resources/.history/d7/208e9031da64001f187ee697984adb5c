@@ -1,0 +1,25 @@
+package projeto.ui.steps;
+
+import org.junit.Test;
+import org.openqa.selenium.By;
+
+import projeto.ui.metodos.Metodos;
+
+public class LoginTest {
+	
+	Metodos metodo = new Metodos();
+	By exemplo = By.xpath(null);
+	
+	By btnLogin = By.xpath("");
+	By msgErro = By.xpath("");
+
+	
+	
+	
+	@Test
+	public void LoginBrancoTeste() {
+		metodo.clicar(null);
+		
+	}
+
+}

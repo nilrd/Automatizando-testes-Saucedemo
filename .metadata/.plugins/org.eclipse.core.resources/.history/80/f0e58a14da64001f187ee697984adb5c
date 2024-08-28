@@ -1,0 +1,16 @@
+package projeto.ui.steps;
+
+import org.junit.Test;
+
+import projeto.ui.metodos.Metodos;
+
+public class LoginTest {
+	
+	Metodos metodo = new Metodos();
+	
+	@Test
+	public void LoginBrancoTeste() {
+		
+	}
+
+}
