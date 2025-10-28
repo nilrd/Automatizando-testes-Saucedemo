@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte das aulas da turma 022024 da escola E2E Treinamentos. Meu nome é Nilson da Silva Brites, e sou aluno do Professor Anderson. O objetivo deste projeto é criar uma automação de testes para a interface do usuário (UI) da aplicação web [SauceDemo](https://www.saucedemo.com/). O projeto foi desenvolvido em Java, utilizando o Selenium WebDriver para interações automatizadas e o JUnit para a execução dos testes.
+O objetivo deste projeto é criar uma automação de testes para a interface do usuário (UI) da aplicação web [SauceDemo](https://www.saucedemo.com/). O projeto foi desenvolvido em Java, utilizando o Selenium WebDriver para interações automatizadas e o JUnit para a execução dos testes.
 
 ## Estrutura do Projeto
 
